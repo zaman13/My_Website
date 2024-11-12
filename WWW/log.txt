@@ -1,0 +1,46 @@
+Spelling correction:
+Research.html : 
+1. tweezer -> tweezers
+2. gradient-descent -> gradient descent
+
+CV.html
+1. Cross-Section -> Cross Section
+
+Projects.html
+1. distrotion -> distortion
+2. neigboring -> neighboring
+3. noticable -> noticeable 
+4. Newont's -> Newton's
+5. resonatory -> resonator
+6. stopband -> stop-band
+7. enomicroscopy -> endomicroscopy
+8. conatins -> contains
+9. devloped -> developed
+10. thorugh -> through
+11. Desiging -> Designing
+
+
+July 16, 2018
+Resources.html
+1. Added basilisk link
+2. Fixed text alignment (all texts are left aligned now, instead of justified)
+
+Sept. 29, 2018
+
+1. Added the viewport metatag in all pages:
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+2. In Research page, added a link to the Projects page.
+3. In CV page, included the optical design competition
+4. In index page, added the opticaL design competition in the news section.
+
+
+Aug. 3, 2019
+1. In all pages, fixed the year in the Copyright footer. The year should auto-update now.
+2. In CV page, included Centennial TA award
+3. In Publications page, added the 2 Scientific Reports paper
+4. In the index page, added Centinnial TA award, photonic radiative cooler github, and photonic radiative cooler github in the news section.
+5. In the projects page, added the link of the Synopsys competition and the endomicroscope paper in the endomicroscope section. Fixed <a/> to </a> in the Raman amplifier paper link.
+6. Issues to be solved: The news slidebar is not working correctly. During the first cycle, only the first news appears. The rest stays blank. From the second cycle, everything works normally. Probably some issue with the javascript.
+
+
