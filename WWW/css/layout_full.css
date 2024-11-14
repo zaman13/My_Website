@@ -10,6 +10,20 @@
 header,section,footer,aside,nav, article, hgroup{display: block;}
 
 
+@font-face { 
+    font-family: 'Hind'; 
+    src: url('../fonts/Hind-Regular.woff2') format('woff2'); 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+@font-face { 
+    font-family: 'Hind'; 
+    src: url('../fonts/Hind-Bold.woff2') format('woff2'); 
+    font-weight: bold; 
+    font-style: normal; 
+}
+
 body{
     min-height: 100vh;	
     text-align: center;
